@@ -2,8 +2,9 @@ This is write,txt file
 
 add more 
 
-Some popular new songs in 2024 include “Stick Season” by Noah Kahan, which has been topping the UK charts, along with “Beautiful Things” by Benson Boone and “Lose Control” by Teddy Swims. These tracks have resonated with listeners for their catchy melodies and heartfelt lyrics, with “Stick Season” maintaining a strong presence in the charts since early in the year. Other notable entries include Taylor Swift’s “Cruel Summer” and Sabrina Carpenter’s “Please Please Please,” both of which continue to climb and gain popularity in various region
+Some popular new songs in 2024 include “Stick Season” by Noah Kahan
 
-You can explore the full list of top songs on the Official Charts website for more details about these hits and others currently trending.
+
+bug fixsing
 
 
